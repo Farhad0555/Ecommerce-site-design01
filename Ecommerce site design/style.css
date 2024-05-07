@@ -1,0 +1,42 @@
+
+/* <!-- Categories section css start here --> */
+.div_Watch_cate{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background:#FF9C35;
+}
+.div_Bag_cate{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background:#FF589B;  
+}
+.div_Shoes_cate{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background:#4289FF;  
+}
+.carousel_background{
+    background: #FEEAE9;
+}
+.Categories_image{
+    width:68.21px;
+    height: 90px;
+}
+/* <!-- Categories section css end here --> */
+
+.footer_hole{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FFF2F1;
+}
+.button_color{
+    background:#FF589B;
+}
